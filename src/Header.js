@@ -15,8 +15,8 @@ export default function Header () {
                     </div>
                     <div className ='linkTwo'>
 
-                    <Link to='/form'>Order Now!</Link>
-                          <Route path='/form'>
+                    <Link to='/Form'>Order Now!</Link>
+                          <Route path='/Form'>
                          <Form/>
                         </Route>
                     </div>
